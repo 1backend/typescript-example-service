@@ -1,14 +1,22 @@
 {
-  "name": "1backend-typescript-example-service",
-  "version": "0.0.1",
+  "name": "@1backend/typescript-example-service",
+  "version": "0.0.2",
   "description": "Minimal TypeScript example service for 1backend",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "email": "dobronszki@gmail.com",
+    "name": "Janos Dobronszki"
+  },
   "scripts": {
     "prepare": "npm run build",
     "build": "tsc"
   },
-  "keywords": ["typescript", "node"],
+  "keywords": [
+    "typescript",
+    "node"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/1backend/typescript-example-service.git"
