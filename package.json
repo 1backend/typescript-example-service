@@ -1,6 +1,6 @@
 {
   "name": "@1backend/typescript-example-service",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Minimal TypeScript example service for 1backend",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
